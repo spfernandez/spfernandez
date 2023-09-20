@@ -2,8 +2,9 @@
 #### Soy Full Stack Developer
 ![Soy Full Stack Developer](https://i.pinimg.com/originals/6d/cb/87/6dcb87b5720b1f60433537ad399fd72b.png)
 
-Soy una apasionada desarrolladora full Stack de Argentina. 
-Actualmente termine mis estudios en el Bootcamp Soy Henry y busco ampliar mis conocimiento para ir perfeccionandome en distintas tecnologías de desarrollo.
+Soy una apasionante desarrolladora Full Stack de Argentina. 
+Actualmente termine mis estudios en el Bootcamp Soy Henry y busco ampliar mis conocimientos para ir perfeccionandome en distintas tecnologías de desarrollo.
+
 
 
 
