@@ -2,7 +2,7 @@
 #### Soy Full Stack Developer
 ![Soy Full Stack Developer](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
 
-Soy una apasionada desarrolladora full Stack de Argentina. 
+Soy una apasionada desarrolladora Full Stack de Argentina. 
 Actualmente termine mis estudios en el Bootcamp Soy Henry y busco ampliar mis conocimientos para ir perfeccionandome en distintas tecnologías de desarrollo.
 
 
